@@ -1,0 +1,58 @@
+body{background-color: #f1fbfb; text-align: center; font-family: cursive; color: #79d9d9}
+h1{font-size: 562.5%}
+h3{font-size: 140%}
+p{font-weight: normal; font-size: 1.5rem}
+hr{border: dotted  #1A746F 10px; border-bottom: none; width: 50%}
+.cloud-top{padding-top:1rem; padding-left: 40rem}
+.Jackson{padding-top: 4rem}
+.cloud-bottom{position: relative; display: block;padding-top: 4rem; margin-left: 20%}
+.mountain-img{position:relative; displa: block;  argin-left: 25%}
+.Jackson-Profile{margin-top: 100px; border-radius: 20px; width: 250px}
+
+.skills{position: relative; display: block}
+.skill-row1{position: relative; display: inline-block; margin-left: 5%; margin-top: 5%; margin-bottom: 3%; text-align: left}
+.Finance-image{float: left; border-radius: 20px; width: 250px; margin-right: 2%}
+.skill-row2{position:absolute; display: block; margin-left: 5%; margin-top: 3%; margin-bottom: 5%; text-align: left}
+.coding-image{float: left; border-radius: 20px; width: 250px; margin-right: 3%}
+.webdeveloper{padding-top: 2%}
+.contact-me{position:relative; display:inline-block;}
+.line-contact{margin-top: 30%}
+.BUTTON_TFG {
+   background: #00A1B2;
+   background-image: -webkit-linear-gradient(top, #00A1B2, #56DCEF);
+   background-image: -moz-linear-gradient(top, #00A1B2, #56DCEF);
+   background-image: -ms-linear-gradient(top, #00A1B2, #56DCEF);
+   background-image: -o-linear-gradient(top, #00A1B2, #56DCEF);
+   background-image: -webkit-gradient(to bottom, #00A1B2, #56DCEF);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Times New Roman;
+   width: 200px;
+   font-size: 30px;
+   font-weight: 100;
+   padding: 27px;
+   text-shadow: 1px 1px 20px #2D7B7F;
+   border: solid #33E1ED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_TFG:hover {
+   border: solid #000000 0;
+   background: #96FFFF;
+   background-image: -webkit-linear-gradient(top, #96FFFF, rgba(70, 141, 143, 0.45));
+   background-image: -moz-linear-gradient(top, #96FFFF, rgba(70, 141, 143, 0.45));
+   background-image: -ms-linear-gradient(top, #96FFFF, rgba(70, 141, 143, 0.45));
+   background-image: -o-linear-gradient(top, #96FFFF, rgba(70, 141, 143, 0.45));
+   background-image: -webkit-gradient(to bottom, #96FFFF, rgba(70, 141, 143, 0.45));
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
